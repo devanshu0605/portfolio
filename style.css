@@ -1,3 +1,6 @@
+*{
+    scroll-behavior: smooth;
+}
 body {
     scroll-behavior: smooth;
     color: black;
@@ -167,12 +170,217 @@ margin: 00px 20px 00px 20px;
 }
 #projectbox{
     width: 80%;
-    height: 2000px;
+    height: 4300px;
     border: #9c4c7b 0.6px solid;
     margin-top: 100px;
     margin-bottom: 100px;
+    color: #8a476e;
 }
 #projecthead{
 color: #491734;
 margin-top: 60px;
+}
+#projectbox1{
+    margin-top: 60px;
+    border: #ba8aa6 0.6px solid;
+    width: 80%;
+    height: 610px;
+}
+#projectbox2{
+    margin-top: 150px;
+    border: #ba8aa6 0.6px solid;
+    width: 80%;
+    height: 610px;
+}
+#projectbox3{
+    margin-top: 150px;
+    border: #ba8aa6 0.6px solid;
+    width: 80%;
+    height: 610px;
+
+}
+#projectbox4{
+    margin-top: 150px;
+    border: #ba8aa6 0.6px solid;
+    width: 80%;
+    height: 610px;
+}
+#pimg1{
+    margin-top: 5px;
+}
+#p1{
+    margin: 10px 150px 1px 150px;
+}
+h4{
+    color:#491734;
+}
+#contact{
+    height: 700px;
+    width: 100%;
+    background-color: #491734;
+}
+#left1{
+    float: left;
+    width: 40%;
+color: white;
+height: 700px;
+/* border: beige 2px solid; */
+}
+#right1{
+    float: right;
+    width: 60%;
+    color: white;
+    height: 700px;
+    /* border: beige 2px solid; */
+}
+#conhead{
+    margin-top: 100px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+/* .leftdiv1c{
+    float: left;
+    width: 30%;
+   
+    text-align: right;
+    font-size: 50px;
+}
+#rightdiv1{
+    float: right;
+    width: 60%;
+   
+}
+
+#rightdiv2{
+    float: right;
+    width: 60%;
+  
+}
+#leftdiv3{
+    float: left;
+    width: 30%;
+    
+    text-align: right;
+    font-size: 50px;
+}
+#rightdiv3{
+    float: right;
+    width: 60%;
+
+}
+#headofdiv{
+    color: #00bcd4;
+}
+#leftdiv2{
+margin-top: 90px;
+}
+#rightdiv2{
+margin-top: 40px;
+}
+#leftdiv3{
+margin-top: 90px;
+}
+#rightdiv3{
+margin-top: 40px;
+} */
+
+#leftdiv1{
+    float: left;
+    width: 30%;
+    text-align: right;
+}
+#leftdiv1 i{
+    font-size: 30px;
+    margin-top: 10px;
+}
+#rightdiv1{
+    float: right;
+    width: 65%;
+}
+#leftdiv2{
+    float: left;
+    width: 30%;
+    text-align: right;
+}
+#leftdiv2 i{
+    font-size: 30px;
+    margin-top: 130px;
+}
+#rightdiv2{
+    float: right;
+    width: 65%;
+    margin-top: 30px;
+}
+#leftdiv3{
+    float: left;
+    width: 30%;
+    text-align: right;
+}
+#leftdiv3 i{
+    font-size: 30px;
+    margin-top: 70px;
+}
+#rightdiv3{
+    float: right;
+    width: 65%;
+    margin-top: 30px;
+}
+#headofdiv{
+    color: #00bcd4;
+}
+#righthead{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#righthead2{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#text{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 700px;
+    height: 50px;
+    background-color:#222;
+    outline: none;
+    border: none;
+    padding-left: 20px;
+    color: white;
+}
+#text2{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 700px;
+    height: 50px;
+    background-color:#222;
+    outline: none;
+    border: none;
+    padding-left: 20px;
+    color: white;
+}
+#text3{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 700px;
+    height: 250px;
+    background-color:#222;
+    outline: none;
+    border: none;
+    padding-left: 15px;
+    padding-bottom: 200px;
+    color: white;
+}
+#submit{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 100px;
+    height: 50px;
+    background-color:#222;
+    outline: none;
+    border: none;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: #2196f3;
 }
